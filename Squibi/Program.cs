@@ -1,12 +1,12 @@
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Squibi.Core.Assets;
-using Squibi.Core.Assets.Loaders;
+using Squibi.Web.Core.Assets;
+using Squibi.Web.Core.Assets.Loaders;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Squibi
+namespace Squibi.Web
 {
     public class Program
     {

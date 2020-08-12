@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
-using Squibi.Core;
-using Squibi.Core.Components;
+using Squibi.Web.Core;
+using Squibi.Web.Core.Components;
 
-namespace Squibi
+namespace Squibi.Web
 {
     public class AsteroidBrainComponent : BaseComponent
     {

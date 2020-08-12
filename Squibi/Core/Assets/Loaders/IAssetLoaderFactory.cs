@@ -1,4 +1,4 @@
-namespace Squibi.Core.Assets.Loaders
+namespace Squibi.Web.Core.Assets.Loaders
 {
     public interface IAssetLoaderFactory
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Squibi.Core.Utils
+namespace Squibi.Web.Core.Utils
 {
     public static class EnumUtils
     {

@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using Microsoft.AspNetCore.Components;
 
-namespace Squibi.Core.Assets
+namespace Squibi.Web.Core.Assets
 {
     public class Sprite : IAsset
     {

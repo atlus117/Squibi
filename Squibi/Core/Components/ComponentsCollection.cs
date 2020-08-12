@@ -2,9 +2,9 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using Squibi.Core.Exceptions;
+using Squibi.Web.Core.Exceptions;
 
-namespace Squibi.Core.Components
+namespace Squibi.Web.Core.Components
 {
     internal class ComponentsFactory
     {

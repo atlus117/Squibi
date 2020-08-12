@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace Squibi.Core.Components
+namespace Squibi.Web.Core.Components
 {
     public abstract class BaseComponent : IComponent
     {

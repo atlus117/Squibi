@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Concurrent;
 using System.Threading.Tasks;
-using Squibi.Core.Assets.Loaders;
+using Squibi.Web.Core.Assets.Loaders;
 using Microsoft.Extensions.Logging;
 
-namespace Squibi.Core.Assets
+namespace Squibi.Web.Core.Assets
 {
     public class AssetsResolver : IAssetsResolver
     {

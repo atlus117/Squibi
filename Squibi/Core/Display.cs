@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace Squibi.Core
+namespace Squibi.Web.Core
 {
     public class Display
     {

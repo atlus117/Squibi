@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Squibi.Core.Components;
+using Squibi.Web.Core.Components;
 
-namespace Squibi.Core
+namespace Squibi.Web.Core
 {
     public class GameObject 
     {

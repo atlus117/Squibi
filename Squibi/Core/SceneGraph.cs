@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Squibi.Core
+namespace Squibi.Web.Core
 {
     public class SceneGraph
     {

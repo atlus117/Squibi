@@ -1,4 +1,4 @@
-namespace Squibi.Core.Assets
+namespace Squibi.Web.Core.Assets
 {
     public class ImageFormatUtils
     {

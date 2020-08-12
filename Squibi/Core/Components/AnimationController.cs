@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Squibi.Core.Assets;
+using Squibi.Web.Core.Assets;
 
-namespace Squibi.Core.Components
+namespace Squibi.Web.Core.Components
 {
     public class AnimationController : BaseComponent
     {

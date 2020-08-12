@@ -1,7 +1,7 @@
 using System;
-using Squibi.Core.Components;
+using Squibi.Web.Core.Components;
 
-namespace Squibi.Core.Exceptions
+namespace Squibi.Web.Core.Exceptions
 {
     public class ComponentNotFoundException<TC> : Exception where TC : IComponent
     {

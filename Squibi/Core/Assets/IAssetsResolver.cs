@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Squibi.Core.Assets
+namespace Squibi.Web.Core.Assets
 {
     public interface IAssetsResolver
     {

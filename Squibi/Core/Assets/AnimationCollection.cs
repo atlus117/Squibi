@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using Microsoft.AspNetCore.Components;
 
-namespace Squibi.Core.Assets
+namespace Squibi.Web.Core.Assets
 {
     
     public class AnimationCollection : IAsset

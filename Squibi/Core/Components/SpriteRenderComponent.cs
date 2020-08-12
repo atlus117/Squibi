@@ -1,9 +1,9 @@
 using System;
 using System.Threading.Tasks;
 using Blazor.Extensions.Canvas.Canvas2D;
-using Squibi.Core.Assets;
+using Squibi.Web.Core.Assets;
 
-namespace Squibi.Core.Components
+namespace Squibi.Web.Core.Components
 {
     public class SpriteRenderComponent : BaseComponent, IRenderable
     {

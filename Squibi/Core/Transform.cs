@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace Squibi.Core
+namespace Squibi.Web.Core
 {
     public class Transform
     {

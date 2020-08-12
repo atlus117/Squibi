@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Squibi.Core.Components
+namespace Squibi.Web.Core.Components
 {
     public interface IComponent
     {

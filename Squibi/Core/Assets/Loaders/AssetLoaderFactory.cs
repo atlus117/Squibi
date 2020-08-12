@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Squibi.Core.Assets.Loaders
+namespace Squibi.Web.Core.Assets.Loaders
 {
     public class AssetLoaderFactory : IAssetLoaderFactory
     {

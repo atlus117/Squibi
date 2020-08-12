@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using Squibi.Core.Utils;
+using Squibi.Web.Core.Utils;
 
-namespace Squibi.Core
+namespace Squibi.Web.Core
 {
     public class InputSystem
     {

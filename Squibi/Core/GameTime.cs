@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace Squibi.Core
+namespace Squibi.Web.Core
 {
     public class GameTime
     {

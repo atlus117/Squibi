@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Squibi.Core.Assets.Loaders
+namespace Squibi.Web.Core.Assets.Loaders
 {
     public interface IAssetLoader<TA> where TA : IAsset
     {
