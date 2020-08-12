@@ -1,6 +1,6 @@
 filename=$(basename)
 filename=${filename%.*}
-buildPath="build/$filename-t"
+buildPath="build/$filename"
 dotnet publish --configuration Release $ --output $buildPath
 mv $buildPath/wwwroot/ "build/$filename"
 rm -rf $buildPath
