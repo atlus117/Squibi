@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BlazorCanvas.Example10.Core.Components;
+using Squibi.Core.Components;
 
-namespace BlazorCanvas.Example10.Core
+namespace Squibi.Core
 {
     public class GameObject 
     {

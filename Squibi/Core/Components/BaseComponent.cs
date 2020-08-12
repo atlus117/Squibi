@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace BlazorCanvas.Example10.Core.Components
+namespace Squibi.Core.Components
 {
     public abstract class BaseComponent : IComponent
     {

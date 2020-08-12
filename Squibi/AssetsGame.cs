@@ -2,11 +2,11 @@ using System;
 using System.Threading.Tasks;
 using Blazor.Extensions;
 using Blazor.Extensions.Canvas.Canvas2D;
-using BlazorCanvas.Example10.Core;
-using BlazorCanvas.Example10.Core.Assets;
-using BlazorCanvas.Example10.Core.Components;
+using Squibi.Core;
+using Squibi.Core.Assets;
+using Squibi.Core.Components;
 
-namespace BlazorCanvas.Example10
+namespace Squibi
 {
     public class AssetsGame : GameContext
     {

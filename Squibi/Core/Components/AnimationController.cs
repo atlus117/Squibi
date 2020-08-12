@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BlazorCanvas.Example10.Core.Assets;
+using Squibi.Core.Assets;
 
-namespace BlazorCanvas.Example10.Core.Components
+namespace Squibi.Core.Components
 {
     public class AnimationController : BaseComponent
     {

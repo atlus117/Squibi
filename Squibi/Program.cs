@@ -1,12 +1,12 @@
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
-using BlazorCanvas.Example10.Core.Assets;
-using BlazorCanvas.Example10.Core.Assets.Loaders;
+using Squibi.Core.Assets;
+using Squibi.Core.Assets.Loaders;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BlazorCanvas.Example10
+namespace Squibi
 {
     public class Program
     {

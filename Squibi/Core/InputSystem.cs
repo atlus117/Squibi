@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using BlazorCanvas.Example10.Core.Utils;
+using Squibi.Core.Utils;
 
-namespace BlazorCanvas.Example10.Core
+namespace Squibi.Core
 {
     public class InputSystem
     {

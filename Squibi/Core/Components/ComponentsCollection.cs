@@ -2,9 +2,9 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using BlazorCanvas.Example10.Core.Exceptions;
+using Squibi.Core.Exceptions;
 
-namespace BlazorCanvas.Example10.Core.Components
+namespace Squibi.Core.Components
 {
     internal class ComponentsFactory
     {

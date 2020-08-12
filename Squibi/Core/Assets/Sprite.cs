@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using Microsoft.AspNetCore.Components;
 
-namespace BlazorCanvas.Example10.Core.Assets
+namespace Squibi.Core.Assets
 {
     public class Sprite : IAsset
     {

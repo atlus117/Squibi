@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace BlazorCanvas.Example10.Core.Assets.Loaders
+namespace Squibi.Core.Assets.Loaders
 {
     public interface IAssetLoader<TA> where TA : IAsset
     {

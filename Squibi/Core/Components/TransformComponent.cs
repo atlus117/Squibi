@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace BlazorCanvas.Example10.Core.Components
+namespace Squibi.Core.Components
 {
     public class TransformComponent : BaseComponent
     {

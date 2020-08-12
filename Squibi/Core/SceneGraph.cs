@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace BlazorCanvas.Example10.Core
+namespace Squibi.Core
 {
     public class SceneGraph
     {

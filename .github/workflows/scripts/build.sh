@@ -8,6 +8,6 @@ do
     mv $buildPath/wwwroot/ "build/$filename"        
     rm -rf $buildPath
 
-    sed -i -e "s/<base href=\"\/\" \/>/<base href=\"\/BlazorCanvas\/$filename\/\" \/>/g" build/$filename/index.html
+    sed -i -e "s/<base href=\"\/\" \/>/<base href=\"\/Squibi\/$filename\/\" \/>/g" build/$filename/index.html
 done
 cp readme.md build/readme.md

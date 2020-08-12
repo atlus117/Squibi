@@ -1,7 +1,7 @@
 using System;
-using BlazorCanvas.Example10.Core.Components;
+using Squibi.Core.Components;
 
-namespace BlazorCanvas.Example10.Core.Exceptions
+namespace Squibi.Core.Exceptions
 {
     public class ComponentNotFoundException<TC> : Exception where TC : IComponent
     {

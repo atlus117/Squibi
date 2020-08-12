@@ -1,4 +1,4 @@
-namespace BlazorCanvas.Example10.Core.Assets.Loaders
+namespace Squibi.Core.Assets.Loaders
 {
     public interface IAssetLoaderFactory
     {

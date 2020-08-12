@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace BlazorCanvas.Example10.Core.Assets.Loaders
+namespace Squibi.Core.Assets.Loaders
 {
     public class AssetLoaderFactory : IAssetLoaderFactory
     {

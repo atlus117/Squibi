@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace BlazorCanvas.Example10.Core
+namespace Squibi.Core
 {
     public class GameTime
     {

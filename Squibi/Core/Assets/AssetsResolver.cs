@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Concurrent;
 using System.Threading.Tasks;
-using BlazorCanvas.Example10.Core.Assets.Loaders;
+using Squibi.Core.Assets.Loaders;
 using Microsoft.Extensions.Logging;
 
-namespace BlazorCanvas.Example10.Core.Assets
+namespace Squibi.Core.Assets
 {
     public class AssetsResolver : IAssetsResolver
     {

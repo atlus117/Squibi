@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BlazorCanvas.Example10.Core.Utils
+namespace Squibi.Core.Utils
 {
     public static class EnumUtils
     {

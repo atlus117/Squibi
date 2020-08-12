@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using Blazor.Extensions.Canvas.Canvas2D;
 
-namespace BlazorCanvas.Example10.Core.Components
+namespace Squibi.Core.Components
 {
     public class FPSCounterComponent : BaseComponent, IRenderable
     {

@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
-using BlazorCanvas.Example10.Core;
-using BlazorCanvas.Example10.Core.Components;
+using Squibi.Core;
+using Squibi.Core.Components;
 
-namespace BlazorCanvas.Example10
+namespace Squibi
 {
     public class AsteroidBrainComponent : BaseComponent
     {

@@ -1,4 +1,4 @@
-﻿namespace BlazorCanvas.Example10.Core.Assets
+﻿namespace Squibi.Core.Assets
 {
     public enum ImageFormat
     {

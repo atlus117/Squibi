@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace BlazorCanvas.Example10.Core.Assets
+namespace Squibi.Core.Assets
 {
     public interface IAssetsResolver
     {

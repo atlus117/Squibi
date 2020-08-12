@@ -1,6 +1,6 @@
 using System.Numerics;
 
-namespace BlazorCanvas.Example10.Core
+namespace Squibi.Core
 {
     public class Transform
     {
