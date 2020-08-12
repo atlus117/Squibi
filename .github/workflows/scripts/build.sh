@@ -1,4 +1,4 @@
-echo projects=($(ls -1 -- ../../../**/*.csproj))
+projects=($(ls -1 -- ../../../**/*.csproj))
 for i in "${projects[@]}"
 do
     filename=$(basename -- "$i")    
